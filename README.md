@@ -1,5 +1,5 @@
 # Run2Splitter
-<h6>An autosplitter for Run2 using the wxWidgets framework </h6>
+<h3>An autosplitter for Run2 using the wxWidgets framework </h3>
 
 <p>To use, download the execuatalbe and Run 2 for Adobe flash debugger. Launch run 2, navigate two the first level and then run the excecutable.
   The splits will update automaticaly after each stage is complete and after each completed run it will save all the splits for that run. Then you
